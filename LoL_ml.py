@@ -7,7 +7,7 @@ from sklearn.cluster import KMeans
 
 #resources used:
 #dataset: https://www.kaggle.com/datasets/cutedango/league-of-legends-champions
-#data preprocessing techniques: https://www.geeksforgeeks.org/python/how-to-standardize-data-in-a-pandas-dataframe/ 
+#standardizing preprocessing techniques: https://www.geeksforgeeks.org/python/how-to-standardize-data-in-a-pandas-dataframe/ 
 #PCA preprocessing techniques: https://www.geeksforgeeks.org/data-analysis/principal-component-analysis-pca/
 #k-means clustering technique: https://www.w3schools.com/python/python_ml_k-means.asp
 
